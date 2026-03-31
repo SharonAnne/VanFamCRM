@@ -3,53 +3,57 @@
 <text x="550" y="36" text-anchor="middle" font-size="28" font-family="Arial" font-weight="bold">Blood Pressure Trend for Patient J</text>
 <text x="550" y="60" text-anchor="middle" font-size="14" font-family="Arial" fill="#555">Systolic and Diastolic over time</text>
 <line x1="90" y1="560.00" x2="1060" y2="560.00" stroke="#e5e7eb" stroke-width="1"/>
-<text x="80" y="565.00" text-anchor="end" font-size="12" font-family="Arial" fill="#444">63</text>
+<text x="80" y="565.00" text-anchor="end" font-size="12" font-family="Arial" fill="#444">60</text>
 <line x1="90" y1="462.00" x2="1060" y2="462.00" stroke="#e5e7eb" stroke-width="1"/>
-<text x="80" y="467.00" text-anchor="end" font-size="12" font-family="Arial" fill="#444">79</text>
+<text x="80" y="467.00" text-anchor="end" font-size="12" font-family="Arial" fill="#444">77</text>
 <line x1="90" y1="364.00" x2="1060" y2="364.00" stroke="#e5e7eb" stroke-width="1"/>
-<text x="80" y="369.00" text-anchor="end" font-size="12" font-family="Arial" fill="#444">95</text>
+<text x="80" y="369.00" text-anchor="end" font-size="12" font-family="Arial" fill="#444">93</text>
 <line x1="90" y1="266.00" x2="1060" y2="266.00" stroke="#e5e7eb" stroke-width="1"/>
-<text x="80" y="271.00" text-anchor="end" font-size="12" font-family="Arial" fill="#444">111</text>
+<text x="80" y="271.00" text-anchor="end" font-size="12" font-family="Arial" fill="#444">110</text>
 <line x1="90" y1="168.00" x2="1060" y2="168.00" stroke="#e5e7eb" stroke-width="1"/>
-<text x="80" y="173.00" text-anchor="end" font-size="12" font-family="Arial" fill="#444">127</text>
+<text x="80" y="173.00" text-anchor="end" font-size="12" font-family="Arial" fill="#444">126</text>
 <line x1="90" y1="70.00" x2="1060" y2="70.00" stroke="#e5e7eb" stroke-width="1"/>
 <text x="80" y="75.00" text-anchor="end" font-size="12" font-family="Arial" fill="#444">143</text>
 <line x1="90.00" y1="70" x2="90.00" y2="560" stroke="#f0f0f0" stroke-width="1"/>
 <text x="90.00" y="582" text-anchor="end" transform="rotate(-35 90.00,582)" font-size="11" font-family="Arial" fill="#444">10-Mar 10:00 AM</text>
-<line x1="162.03" y1="70" x2="162.03" y2="560" stroke="#f0f0f0" stroke-width="1"/>
-<text x="162.03" y="582" text-anchor="end" transform="rotate(-35 162.03,582)" font-size="11" font-family="Arial" fill="#444">11-Mar 10:00 PM</text>
-<line x1="240.57" y1="70" x2="240.57" y2="560" stroke="#f0f0f0" stroke-width="1"/>
-<text x="240.57" y="582" text-anchor="end" transform="rotate(-35 240.57,582)" font-size="11" font-family="Arial" fill="#444">13-Mar 01:15 PM</text>
-<line x1="279.78" y1="70" x2="279.78" y2="560" stroke="#f0f0f0" stroke-width="1"/>
-<text x="279.78" y="582" text-anchor="end" transform="rotate(-35 279.78,582)" font-size="11" font-family="Arial" fill="#444">14-Mar 08:51 AM</text>
-<line x1="951.89" y1="70" x2="951.89" y2="560" stroke="#f0f0f0" stroke-width="1"/>
-<text x="951.89" y="582" text-anchor="end" transform="rotate(-35 951.89,582)" font-size="11" font-family="Arial" fill="#444">28-Mar 08:45 AM</text>
-<line x1="1003.41" y1="70" x2="1003.41" y2="560" stroke="#f0f0f0" stroke-width="1"/>
-<text x="1003.41" y="582" text-anchor="end" transform="rotate(-35 1003.41,582)" font-size="11" font-family="Arial" fill="#444">29-Mar 10:30 AM</text>
-<line x1="1049.83" y1="70" x2="1049.83" y2="560" stroke="#f0f0f0" stroke-width="1"/>
-<text x="1049.83" y="582" text-anchor="end" transform="rotate(-35 1049.83,582)" font-size="11" font-family="Arial" fill="#444">30-Mar 09:42 AM</text>
+<line x1="159.32" y1="70" x2="159.32" y2="560" stroke="#f0f0f0" stroke-width="1"/>
+<text x="159.32" y="582" text-anchor="end" transform="rotate(-35 159.32,582)" font-size="11" font-family="Arial" fill="#444">11-Mar 10:00 PM</text>
+<line x1="234.90" y1="70" x2="234.90" y2="560" stroke="#f0f0f0" stroke-width="1"/>
+<text x="234.90" y="582" text-anchor="end" transform="rotate(-35 234.90,582)" font-size="11" font-family="Arial" fill="#444">13-Mar 01:15 PM</text>
+<line x1="272.64" y1="70" x2="272.64" y2="560" stroke="#f0f0f0" stroke-width="1"/>
+<text x="272.64" y="582" text-anchor="end" transform="rotate(-35 272.64,582)" font-size="11" font-family="Arial" fill="#444">14-Mar 08:51 AM</text>
+<line x1="919.43" y1="70" x2="919.43" y2="560" stroke="#f0f0f0" stroke-width="1"/>
+<text x="919.43" y="582" text-anchor="end" transform="rotate(-35 919.43,582)" font-size="11" font-family="Arial" fill="#444">28-Mar 08:45 AM</text>
+<line x1="969.02" y1="70" x2="969.02" y2="560" stroke="#f0f0f0" stroke-width="1"/>
+<text x="969.02" y="582" text-anchor="end" transform="rotate(-35 969.02,582)" font-size="11" font-family="Arial" fill="#444">29-Mar 10:30 AM</text>
+<line x1="1013.69" y1="70" x2="1013.69" y2="560" stroke="#f0f0f0" stroke-width="1"/>
+<text x="1013.69" y="582" text-anchor="end" transform="rotate(-35 1013.69,582)" font-size="11" font-family="Arial" fill="#444">30-Mar 09:42 AM</text>
+<line x1="1023.48" y1="70" x2="1023.48" y2="560" stroke="#f0f0f0" stroke-width="1"/>
+<text x="1023.48" y="582" text-anchor="end" transform="rotate(-35 1023.48,582)" font-size="11" font-family="Arial" fill="#444">30-Mar 02:47 PM</text>
 <line x1="1060.00" y1="70" x2="1060.00" y2="560" stroke="#f0f0f0" stroke-width="1"/>
-<text x="1060.00" y="582" text-anchor="end" transform="rotate(-35 1060.00,582)" font-size="11" font-family="Arial" fill="#444">30-Mar 02:47 PM</text>
+<text x="1060.00" y="582" text-anchor="end" transform="rotate(-35 1060.00,582)" font-size="11" font-family="Arial" fill="#444">31-Mar 09:45 AM</text>
 <line x1="90" y1="560" x2="1060" y2="560" stroke="#111" stroke-width="1.5"/>
 <line x1="90" y1="70" x2="90" y2="560" stroke="#111" stroke-width="1.5"/>
-<polyline points="90.00,100.62 162.03,259.88 240.57,174.12 279.78,137.37 951.89,186.38 1003.41,198.62 1049.83,290.50 1060.00,223.12" fill="none" stroke="#2563eb" stroke-width="3"/>
-<polyline points="90.00,400.75 162.03,425.25 240.57,400.75 279.78,455.88 951.89,382.38 1003.41,351.75 1049.83,480.38 1060.00,529.38" fill="none" stroke="#dc2626" stroke-width="3"/>
-<circle cx="90.00" cy="100.62" r="4" fill="#2563eb"/>
-<circle cx="162.03" cy="259.88" r="4" fill="#2563eb"/>
-<circle cx="240.57" cy="174.12" r="4" fill="#2563eb"/>
-<circle cx="279.78" cy="137.37" r="4" fill="#2563eb"/>
-<circle cx="951.89" cy="186.38" r="4" fill="#2563eb"/>
-<circle cx="1003.41" cy="198.62" r="4" fill="#2563eb"/>
-<circle cx="1049.83" cy="290.50" r="4" fill="#2563eb"/>
-<circle cx="1060.00" cy="223.12" r="4" fill="#2563eb"/>
-<circle cx="90.00" cy="400.75" r="4" fill="#dc2626"/>
-<circle cx="162.03" cy="425.25" r="4" fill="#dc2626"/>
-<circle cx="240.57" cy="400.75" r="4" fill="#dc2626"/>
-<circle cx="279.78" cy="455.88" r="4" fill="#dc2626"/>
-<circle cx="951.89" cy="382.38" r="4" fill="#dc2626"/>
-<circle cx="1003.41" cy="351.75" r="4" fill="#dc2626"/>
-<circle cx="1049.83" cy="480.38" r="4" fill="#dc2626"/>
-<circle cx="1060.00" cy="529.38" r="4" fill="#dc2626"/>
+<polyline points="90.00,99.52 159.32,253.01 234.90,170.36 272.64,134.94 919.43,182.17 969.02,193.98 1013.69,282.53 1023.48,217.59 1060.00,146.75" fill="none" stroke="#2563eb" stroke-width="3"/>
+<polyline points="90.00,388.80 159.32,412.41 234.90,388.80 272.64,441.93 919.43,371.08 969.02,341.57 1013.69,465.54 1023.48,512.77 1060.00,530.48" fill="none" stroke="#dc2626" stroke-width="3"/>
+<circle cx="90.00" cy="99.52" r="4" fill="#2563eb"/>
+<circle cx="159.32" cy="253.01" r="4" fill="#2563eb"/>
+<circle cx="234.90" cy="170.36" r="4" fill="#2563eb"/>
+<circle cx="272.64" cy="134.94" r="4" fill="#2563eb"/>
+<circle cx="919.43" cy="182.17" r="4" fill="#2563eb"/>
+<circle cx="969.02" cy="193.98" r="4" fill="#2563eb"/>
+<circle cx="1013.69" cy="282.53" r="4" fill="#2563eb"/>
+<circle cx="1023.48" cy="217.59" r="4" fill="#2563eb"/>
+<circle cx="1060.00" cy="146.75" r="4" fill="#2563eb"/>
+<circle cx="90.00" cy="388.80" r="4" fill="#dc2626"/>
+<circle cx="159.32" cy="412.41" r="4" fill="#dc2626"/>
+<circle cx="234.90" cy="388.80" r="4" fill="#dc2626"/>
+<circle cx="272.64" cy="441.93" r="4" fill="#dc2626"/>
+<circle cx="919.43" cy="371.08" r="4" fill="#dc2626"/>
+<circle cx="969.02" cy="341.57" r="4" fill="#dc2626"/>
+<circle cx="1013.69" cy="465.54" r="4" fill="#dc2626"/>
+<circle cx="1023.48" cy="512.77" r="4" fill="#dc2626"/>
+<circle cx="1060.00" cy="530.48" r="4" fill="#dc2626"/>
 <text x="575.00" y="632" text-anchor="middle" font-size="14" font-family="Arial">Date / Time</text>
 <text x="24" y="315.00" text-anchor="middle" transform="rotate(-90 24,315.00)" font-size="14" font-family="Arial">Blood Pressure (mmHg)</text>
 <rect x="880" y="80" width="180" height="54" fill="white" stroke="#ddd"/>
