@@ -4,7 +4,9 @@ from datetime import datetime
 from pathlib import Path
 
 INPUT = Path('Blood_Pressure_Log.csv')
-OUTPUT = Path('blood_pressure_j_line_chart.svg')
+#OUTPUT = Path('blood_pressure_j_line_chart.svg')
+OUTPUT = Path('C:/Users/sharo/GitHub/SharonAnne.github.io/blood_pressure_j_line_chart.svg')
+
 YEAR = 2026
 
 rows = []
