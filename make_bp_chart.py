@@ -98,7 +98,8 @@ parts.append(f'<text x="{m_left + pw/2:.2f}" y="{H-18}" text-anchor="middle" fon
 parts.append(f'<text x="24" y="{m_top + ph/2:.2f}" text-anchor="middle" transform="rotate(-90 24,{m_top + ph/2:.2f})" font-size="14" font-family="Arial">Blood Pressure (mmHg)</text>')
 
 # legend
-lx, ly = W - 220, m_top + 10
+#lx, ly = W - 220, m_top + 10
+lx, ly = m_left + 10, H - m_bottom - 64
 parts.append(f'<rect x="{lx}" y="{ly}" width="180" height="54" fill="white" stroke="#ddd"/>')
 parts.append(f'<line x1="{lx+12}" y1="{ly+18}" x2="{lx+42}" y2="{ly+18}" stroke="#2563eb" stroke-width="3"/>')
 parts.append(f'<text x="{lx+50}" y="{ly+22}" font-size="13" font-family="Arial">Systolic</text>')
