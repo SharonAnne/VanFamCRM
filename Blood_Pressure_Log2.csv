@@ -1,0 +1,59 @@
+﻿Index,Patient2,Date,Time,Systolic,Diastolic,Pulse,Notes,J,S,T24 Food
+1,J,10-Mar,10:00 AM,138,89,81,,|+++++++++,,
+2,J,11-Mar,10:00 PM,112,85,84,,|+++++,,
+3,J,13-Mar,1:15 PM,126,89,80,,|+++++++++,,
+4,S,13-Mar,1:15 PM,101,69,57,,,-----------|,
+5,J,14-Mar,8:51 AM,132,80,74,,|,,
+6,S,14-Mar,8:51 AM,114,71,58,,,---------|,
+7,J,28-Mar,8:45 AM,124,92,68,,|++++++++++++,,"SCC chicken parm, spaghetti, broccoli raab, bread&butt, tiramisu"
+8,S,28-Mar,8:45 AM,124,78,58,,,--|,"SCC chicken parm, spaghetti, broccoli raab, bread&butt, tiramisu"
+9,J,29-Mar,10:30 AM,122,97,83,,|+++++++++++++++++,,"Gotts chk tenders,grilld artich,onion rngs; home chili verde pork and rice"
+10,S,29-Mar,10:30 AM,103,67,70,,,-------------|,"Gotts chk tenders,grilld artich,onion rngs; home chili verde pork and rice"
+11,J,30-Mar,9:42 AM,107,76,72,,----|,,Grill: chicken salad
+12,S,30-Mar,9:42 AM,108,70,64,,,----------|,Grill: kale salad
+13,J,30-Mar,2:47 PM,118,68,73,,------------|,,Grill: chicken salad
+14,J,30-Mar,5:40 PM,126,97,82,,,,Grill: chicken salad
+15,J,31-Mar,9:45 AM,130,65,63,,-------------|,,"Jeffs: chk brst, rice pilaf, avoc soup, caviar, apple tart, white wine"
+16,S,31-Mar,9:45 AM,112,72,60,,,--------|,"Jeffs: chk brst, rice pilaf, avoc soup, caviar, apple tart, white wine"
+17,J,31-Mar,12:48 PM,141,64,62,,--------------|,,"Jeffs: chk brst, rice pilaf, avoc soup, caviar, apple tart, white wine"
+18,J,31-Mar,8:45 PM,125,78,87,,--|,,"Home by J: Stouffers lasagna, peas, red wine, tea&choc"
+19,J,1-Apr,3:55 PM,114,74,83,,------|,,"Home by J: Stouffers lasagna, peas, red wine, tea&choc"
+20,S,1-Apr,3:55 PM,101,68,78,,,------------|,"Home by J: Stouffers lasagna, peas, red wine, tea&choc"
+21,J,2-Apr,,,,,,,,"Home by S: penne pasta, tomato sauce, peas, red wine (C.Pollstrini cabsauv)"
+22,S,2-Apr,,,,,,,,"Home by S: penne pasta, tomato sauce, peas, red wine (C.Pollstrini cabsauv)"
+23,J,3-Apr,9:46 AM,140,102,85,,|+++++,,before meds. Mansion: steak salad w avcdo
+24,J,3-Apr,10:51 AM,142,74,72,,--------|,,after meds. Mansion: steak salad w avcdo
+25,J,4-Apr,10:14 PM,120,49,90,,,,right after meds. Lynns: jambalaya
+26,J,4-Apr,10:49 PM,104,76,88,,----|,,Lynns: jambalaya
+27,J,5-Apr,8:00 AM,141,94,76,,|++++++++++++++,,"lunch: Kays: chili+rice, dinner: Jeffs: tuna carpac, chk satay, crab avocd cracker, cake"
+28,J,5-Apr,10:49 AM,136,90,75,,|++++++++++,,"lunch: Kays: chili+rice, dinner: Jeffs: tuna carpac, chk satay, crab avocd cracker, cake"
+29,J,5-Apr,9:22 PM,138,97,93,,|+++++++++++++,,"lunch: Kays: chili+rice, dinner: Jeffs: tuna carpac, chk satay, crab avocd cracker, cake"
+30,J,6-Apr,2:50 PM,119,67,80,,---|,,"dinner: Mansion: wings, 1 onn ring, red wine"
+31,J,6-Apr,5:38 PM,113,56,68,,------------|,,"dinner: Mansion: wings, 1 onn ring, red wine"
+32,J,6-Apr,9:07 PM,121,91,82,,,,
+33,J,7-Apr,7:09 AM,113,65,65,,-----|,,"Lnch: HMR stew. Dinner: Larry's: carnitas taco, chips, carrot cake, red+wht wine."
+34,J,7-Apr,10:30 AM,120,66,75,,----|,,"Lnch(mon): HMR stew. Dinner(mon): Larry's: carnitas taco, chips, carrot cake, red+wht wine.Brk(tues) oatmeal+nuts"
+35,J,7-Apr,9:09 PM,116,60,90,,,,"Lnch(mon): HMR stew. Dinner(mon): Larry's: carnitas taco, chips, carrot cake, red+wht wine.Brk(tues) oatmeal+nuts"
+36,J,8-Apr,10:41 AM,137,91,72,,,,"Dinner (Tue): Grill: chkn brst, 1 white wine"
+37,J,8-Apr,8:20 PM,131,95,90,,,,
+38,J,9-Apr,8:50 AM,118,64,78,,,,
+39,J,9-Apr,9:50 PM,125,68,90,,,,
+40,J,10-Apr,9:34 AM,141,90,78,,,,
+41,J,11-Apr,8:13 AM,115,75,75,,,,"final Friday. Beef? Salad, pasta, w manhattans"
+42,J,11-Apr,9:18 PM,132,69,85,,,,
+43,J,12-Apr,10:46 PM,120,68,86,,,,
+44,J,13-Apr,8:30 PM,139,80,84,,,,
+45,J,14-Apr,11:05 AM,131,95,73,,,,
+46,J,15-Apr,9:32 PM,134,87,76,,,,"Dinner(Tue): mansion- steak salad. (w Cohen,Scanlan,JPMorgan)"
+47,J,16-Apr,9:13 PM,125,47,86,,,,Lunch (Wed): habit burger. Dinner: 1 pc pizza + gatorade
+48,J,17-Apr,1:03 AM,123,86,80,,,,"Dinner(Thu)-J@home: baked chicken, polenta, fennel, carrot. White wine"
+49,J,17-Apr,9:36pm,106,74,80,,,,
+50,J,18-Apr,10:10 AM,134,77,76,,,,
+51,J,19-Apr,11:38 AM,130,92,78,,,,
+52,J,19-Apr,5:30 PM,130,91,83,,,,Dinner(Sat): pizza at Larry's after the wine tasting
+53,J,19-Apr,7:07 PM,125,62,86,,,,Dinner(Sat): pizza at Larry's after the wine tasting
+54,J,20-Apr,11:13 AM,124,94,74,,,,
+55,J,20-Apr,9:34 PM,138,88,75,,,,
+56,J,21-Apr,9:11 AM,133,52,73,,,,
+57,J,21-Apr,1:11 PM,126,88,80,,,,
+58,J,21-Apr,1:30 PM,137,99,86,,,,

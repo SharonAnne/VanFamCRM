@@ -4,7 +4,7 @@ import csv
 from datetime import datetime, timedelta
 from pathlib import Path
 
-INPUT = Path('Blood_Pressure_Log.csv')
+INPUT = Path('Blood_Pressure_Log2.csv')
 #OUTPUT = Path('blood_pressure_j_line_chart.svg')
 OUTPUT = Path('C:/Users/sharo/GitHub/SharonAnne.github.io/blood_pressure_j_line_chart.svg')
 
